@@ -1,0 +1,8 @@
+# ignore config file
+config.py
+
+# ignore __pycache__
+__pycache__/
+
+# ignore cached data
+*.json
